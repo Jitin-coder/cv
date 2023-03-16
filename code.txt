@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Jitin Taiyal</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body >
+  <center>
+    <table cellspacing=20>
+      <tr>
+        <td><a href="jitin.png"><img src="jitin.png " alt="jitin"></a></td>
+        <td>
+          <h1>Jitin Taiyal</h1>
+          <p><em><strong>Student and a part time web developer and a Tennis Player</strong><em></em></p>
+        </td>
+      </tr>
+    </table>
+
+    <P>Hey Everyone, Myself Jitin,, A  young tennis player, with a passion for Technology, I have represented my state in many national tournaments of my country i.e India, and I have been a game developer since sep '2020. But game development was not Personally my thing, thus I started Web development.</P>
+    <hr size ="3">
+    <h3>Skills </h3>
+    <ol type="i">
+      <li>Tennis Player</li>
+      <li>Gaming</li>
+      <li>Public Speaking</li>
+    </ol>
+
+    <table>
+      <tr>
+        <td><img src="rank.png" alt="rank = 847"></td>
+
+      </tr>
+    </table>
+    <hr size ="3">
+    <h3>Hobbies and Interests</h3>
+    <ul>
+      <li>Motorcycles</li>
+      <li>Sports</li>
+      <li>Investing and Trading</li>
+      <li>Cryptocurrency</li>
+    </ul>
+    <hr size ="3">
+    <h3>Social Media Profiles</h3>
+    <ul>
+      <li><a href="https://www.instagram.com/jitin_taiyal__/" target="_blank">Instagram</a></li>
+      <li><a href="https://www.linkedin.com/in/jitin-taiyal-b27535234/" target="_blank">LinkedIn</a></li>
+      <li><a href="https://twitter.com/JTaiyal" target="_blank">Twitter</a></li>
+      <li><a href="https://github.com/Jitin-coder" target="_blank">Github</a></li>
+    </ul>
+    <hr size ="3">
+    <h3>Expereince</h3>
+    <table>
+      <thead>
+        <th>Time</th>
+        <th>Profession</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2020 - 2022</td>
+          <td>Game Developer</td>
+        </tr>
+        <tr>
+          <td>2022 - present</td>
+          <td>Web Developer, Podacast Host</td>
+        </tr>
+      </tbody>
+      <tfoot>
+
+      </tfoot>
+    </table>
+    <hr size ="3">
+    <h3>Rating of Skills</h3>
+    
+    <table cellspacing = "10">
+      <tr>
+        <td>
+          <table border="2" cellspacing = "10">
+          <tr>
+            <td>Game Developer </td>
+            <td>⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Web developer</td>
+            <td> ⭐⭐⭐⭐⭐</td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+
+    <h3><a href="inputs.html">Contact Me</a></h3>
+  </center>
+</body>
+
+</html>
