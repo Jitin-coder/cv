@@ -2,9 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Ways Of Input</title>
+    <title>Contact Me</title>
+    <link rel="stylesheet" href="css/styles.css">
   </head>
   <body>
+    <center>
+    <h1>Please Enter The following details below.</h1>
     <form action="mailto:addictedforce@gmail.com" method="POST" enctype="text/plain">
       <table>
         <tr>
@@ -22,11 +25,15 @@
           <td><input type="file" /></td>
         </tr>
         <tr>
-          <td><label for="">Plese Enter your Message :</label></td>
+          <hr>
+          <td><label for="message">Plese Enter your Message :</label></td>
+          <td><textarea name="text" id="" cols="30" rows="10"></textarea><br /></td>
         </tr>
       </table>
-      <textarea name="text" id="" cols="30" rows="10"></textarea><br />
-      <input type="Submit" />
+      
+      
+      <input type="Submit" /><hr>
     </form>
+    </center>
   </body>
 </html>
